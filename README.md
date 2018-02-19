@@ -1,49 +1,18 @@
-# Heroku Django Starter Template
+# Underserved
 
-An utterly fantastic project starter template for Django 2.0.
+<b> Mission Statement </b><br/>
+Independent developers do not have the resources to do their own market research. We are creating a tool that provides these developers with a platform, to expedite their own market research, based on convenient access to aggregated Steam game data.<br/>
+"We’ve got game/tag/metascore data, and we’re giving folks a few options to select tags with the goal of finding underserved niches in the game market."
 
-## Features
+<b>Target User</b><br/>
+The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/><br/>
+<b>TRELLO<br/>
+https://trello.com/b/kMQuZJhT/underserved<br/>
 
-- Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
-- Enhancements to Django's static file serving functionality via WhiteNoise.
-- Latest Python 3.6 runtime environment.
-
-## How to Use
-
-To use this project, follow these steps:
-
-1. Create your working environment.
-2. Install Django (`$ pipenv install django`)
-3. Create a new project using this template
-
-## Creating Your Project
-
-Using this template to create a new Django app is easy::
-
-    $ django-admin.py startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile helloworld
-
-(If this doesn't work on windows, replace `django-admin.py` with `django-admin`)
-
-You can replace ``helloworld`` with your desired project name.
-
-## Deployment to Heroku
-
-    $ git init
-    $ git add -A
-    $ git commit -m "Initial commit"
-
-    $ heroku create
-    $ git push heroku master
-
-    $ heroku run python manage.py migrate
-
-See also, a [ready-made application](https://github.com/heroku/python-getting-started), ready to deploy.
-
-
-## License: MIT
-
-## Further Reading
-
-- [Gunicorn](https://warehouse.python.org/project/gunicorn/)
-- [WhiteNoise](https://warehouse.python.org/project/whitenoise/)
-- [dj-database-url](https://warehouse.python.org/project/dj-database-url/)
+<b>WIREFRAMES</b><br/>
+index<br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/><br/>
+search results page<br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
+user profile page<br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
