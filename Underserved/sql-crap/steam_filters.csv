@@ -1,0 +1,373 @@
+type,name,label
+f,achievements,Achievements
+f,captions available,Captions available
+f,cloud,Cloud
+f,co-op,Co-op
+f,commentary available,Commentary available
+f,cross-platform multiplayer,Cross-Platform Multiplayer
+f,downloadable content,Downloadable Content
+f,full controller support,Full controller support
+f,game demo,Game demo
+f,in-app purchases,In-App Purchases
+f,includes level editor,Includes level editor
+f,includes source sdk,Includes Source SDK
+f,leaderboards,Leaderboards
+f,local co-op,Local Co-op
+f,local multi-player,Local Multi-Player
+f,mmo,MMO
+f,mods,Mods
+f,mods (require hl1),Mods (require HL1)
+f,mods (require hl2),Mods (require HL2)
+f,multi-player,Multi-player
+f,online co-op,Online Co-op
+f,online multi-player,Online Multi-Player
+f,partial controller support,Partial Controller Support
+f,shared/split screen,Shared/Split Screen
+f,single-player,Single-player
+f,stats,Stats
+f,trading cards,Trading Cards
+f,turn notifications,Turn Notifications
+f,valve anti-cheat enabled,Valve Anti-Cheat enabled
+f,vr collectibles,VR Collectibles
+f,vr support,VR Support
+f,workshop,Workshop
+t,1980s,1980s
+t,1990's,1990's
+t,2.5d,2.5D
+t,2d,2D
+t,2d fighter,2D Fighter
+t,360 video,360 Video
+t,3d platformer,3D Platformer
+t,3d vision,3D Vision
+t,4 player local,4 Player Local
+t,4x,4X
+t,6dof,6DOF
+t,abstract,Abstract
+t,action,Action
+t,action rpg,Action RPG
+t,action-adventure,Action-Adventure
+t,adventure,Adventure
+t,agriculture,Agriculture
+t,aliens,Aliens
+t,alternate history,Alternate History
+t,america,America
+t,animation & modeling,Animation & Modeling
+t,anime,Anime
+t,arcade,Arcade
+t,arena shooter,Arena Shooter
+t,artificial intelligence,Artificial Intelligence
+t,assassin,Assassin
+t,asynchronous multiplayer,Asynchronous Multiplayer
+t,atmospheric,Atmospheric
+t,audio production,Audio Production
+t,base building,Base Building
+t,based on a novel,Based On A Novel
+t,basketball,Basketball
+t,batman,Batman
+t,beat 'em up,Beat 'em up
+t,benchmark,Benchmark
+t,bikes,Bikes
+t,blood,Blood
+t,board game,Board Game
+t,bowling,Bowling
+t,building,Building
+t,bullet hell,Bullet Hell
+t,bullet time,Bullet Time
+t,capitalism,Capitalism
+t,card game,Card Game
+t,cartoon,Cartoon
+t,cartoony,Cartoony
+t,casual,Casual
+t,character action game,Character Action Game
+t,character customization,Character Customization
+t,chess,Chess
+t,choices matter,Choices Matter
+t,choose your own adventure,Choose Your Own Adventure
+t,cinematic,Cinematic
+t,city builder,City Builder
+t,class-based,Class-Based
+t,classic,Classic
+t,clicker,Clicker
+t,co-op,Co-op
+t,co-op campaign,Co-op Campaign
+t,cold war,Cold War
+t,colorful,Colorful
+t,comedy,Comedy
+t,comic book,Comic Book
+t,competitive,Competitive
+t,conspiracy,Conspiracy
+t,controller,Controller
+t,conversation,Conversation
+t,crafting,Crafting
+t,crime,Crime
+t,crowdfunded,Crowdfunded
+t,crpg,CRPG
+t,cult classic,Cult Classic
+t,cute,Cute
+t,cyberpunk,Cyberpunk
+t,cycling,Cycling
+t,dark,Dark
+t,dark comedy,Dark Comedy
+t,dark fantasy,Dark Fantasy
+t,dark humor,Dark Humor
+t,dating sim,Dating Sim
+t,demons,Demons
+t,design & illustration,Design & Illustration
+t,destruction,Destruction
+t,detective,Detective
+t,difficult,Difficult
+t,dinosaurs,Dinosaurs
+t,diplomacy,Diplomacy
+t,documentary,Documentary
+t,dragons,Dragons
+t,drama,Drama
+t,driving,Driving
+t,dungeon crawler,Dungeon Crawler
+t,dynamic narration,Dynamic Narration
+t,dystopian,Dystopian
+t,e-sports,e-sports
+t,early access,Early Access
+t,economy,Economy
+t,education,Education
+t,episodic,Episodic
+t,experience,Experience
+t,experimental,Experimental
+t,exploration,Exploration
+t,faith,Faith
+t,family friendly,Family Friendly
+t,fantasy,Fantasy
+t,fast-paced,Fast-Paced
+t,feature film,Feature Film
+t,female protagonist,Female Protagonist
+t,fighting,Fighting
+t,first-person,First-Person
+t,fishing,Fishing
+t,flight,Flight
+t,fmv,FMV
+t,football,Football
+t,foreign,Foreign
+t,fps,FPS
+t,free to play,Free to Play
+t,funny,Funny
+t,futuristic,Futuristic
+t,gambling,Gambling
+t,game development,Game Development
+t,gamemaker,GameMaker
+t,games workshop,Games Workshop
+t,gaming,Gaming
+t,god game,God Game
+t,golf,Golf
+t,gore,Gore
+t,gothic,Gothic
+t,grand strategy,Grand Strategy
+t,great soundtrack,Great Soundtrack
+t,grid-based movement,Grid-Based Movement
+t,gun customization,Gun Customization
+t,hack and slash,Hack and Slash
+t,hacking,Hacking
+t,hand-drawn,Hand-drawn
+t,hardware,Hardware
+t,heist,Heist
+t,hex grid,Hex Grid
+t,hidden object,Hidden Object
+t,historical,Historical
+t,horror,Horror
+t,horses,Horses
+t,hunting,Hunting
+t,illuminati,Illuminati
+t,indie,Indie
+t,intentionally awkward controls,Intentionally Awkward Controls
+t,interactive fiction,Interactive Fiction
+t,inventory management,Inventory Management
+t,investigation,Investigation
+t,isometric,Isometric
+t,jrpg,JRPG
+t,kickstarter,Kickstarter
+t,lara croft,Lara Croft
+t,lego,LEGO
+t,lemmings,Lemmings
+t,level editor,Level Editor
+t,linear,Linear
+t,local co-op,Local Co-Op
+t,local multiplayer,Local Multiplayer
+t,logic,Logic
+t,loot,Loot
+t,lore-rich,Lore-Rich
+t,lovecraftian,Lovecraftian
+t,magic,Magic
+t,management,Management
+t,mars,Mars
+t,martial arts,Martial Arts
+t,massively multiplayer,Massively Multiplayer
+t,match 3,Match 3
+t,mature,Mature
+t,mechs,Mechs
+t,medieval,Medieval
+t,memes,Memes
+t,metroidvania,Metroidvania
+t,military,Military
+t,mini golf,Mini Golf
+t,minimalist,Minimalist
+t,mining,Mining
+t,mmorpg,MMORPG
+t,moba,MOBA
+t,mod,Mod
+t,moddable,Moddable
+t,modern,Modern
+t,mouse only,Mouse only
+t,movie,Movie
+t,multiplayer,Multiplayer
+t,multiple endings,Multiple Endings
+t,music,Music
+t,music-based procedural generation,Music-Based Procedural Generation
+t,mystery,Mystery
+t,mystery dungeon,Mystery Dungeon
+t,mythology,Mythology
+t,narration,Narration
+t,naval,Naval
+t,ninja,Ninja
+t,noir,Noir
+t,nonlinear,Nonlinear
+t,nsfw,NSFW
+t,nudity,Nudity
+t,offroad,Offroad
+t,on-rails shooter,On-Rails Shooter
+t,online co-op,Online Co-Op
+t,open world,Open World
+t,otome,Otome
+t,parkour,Parkour
+t,parody,Parody
+t,party-based rpg,Party-Based RPG
+t,perma death,Perma Death
+t,philisophical,Philisophical
+t,photo editing,Photo Editing
+t,physics,Physics
+t,pinball,Pinball
+t,pirates,Pirates
+t,pixel graphics,Pixel Graphics
+t,platformer,Platformer
+t,point & click,Point & Click
+t,political,Political
+t,politics,Politics
+t,pool,Pool
+t,post-apocalyptic,Post-apocalyptic
+t,procedural generation,Procedural Generation
+t,programming,Programming
+t,psychedelic,Psychedelic
+t,psychological,Psychological
+t,psychological horror,Psychological Horror
+t,puzzle,Puzzle
+t,puzzle-platformer,Puzzle-Platformer
+t,pve,PvE
+t,pvp,PvP
+t,quick-time events,Quick-Time Events
+t,racing,Racing
+t,real time tactics,Real Time Tactics
+t,real-time,Real-Time
+t,real-time with pause,Real-Time with Pause
+t,realistic,Realistic
+t,relaxing,Relaxing
+t,remake,Remake
+t,replay value,Replay Value
+t,resource management,Resource Management
+t,retro,Retro
+t,rhythm,Rhythm
+t,robots,Robots
+t,rogue-like,Rogue-like
+t,rogue-lite,Rogue-lite
+t,romance,Romance
+t,rome,Rome
+t,rpg,RPG
+t,rpgmaker,RPGMaker
+t,rts,RTS
+t,runner,Runner
+t,sailing,Sailing
+t,sandbox,Sandbox
+t,satire,Satire
+t,sci-fi,Sci-fi
+t,science,Science
+t,score attack,Score Attack
+t,sexual content,Sexual Content
+t,shoot 'em up,Shoot 'Em Up
+t,shooter,Shooter
+t,short,Short
+t,side scroller,Side Scroller
+t,silent protagonist,Silent Protagonist
+t,simulation,Simulation
+t,singleplayer,Singleplayer
+t,sniper,Sniper
+t,soccer,Soccer
+t,software,Software
+t,software training,Software Training
+t,sokoban,Sokoban
+t,soundtrack,Soundtrack
+t,space,Space
+t,space sim,Space Sim
+t,spectacle fighter,Spectacle fighter
+t,spelling,Spelling
+t,split screen,Split Screen
+t,sports,Sports
+t,star wars,Star Wars
+t,stealth,Stealth
+t,steam machine,Steam Machine
+t,steampunk,Steampunk
+t,story rich,Story Rich
+t,strategy,Strategy
+t,strategy rpg,Strategy RPG
+t,stylized,Stylized
+t,superhero,Superhero
+t,supernatural,Supernatural
+t,surreal,Surreal
+t,survival,Survival
+t,survival horror,Survival Horror
+t,swordplay,Swordplay
+t,tactical,Tactical
+t,tactical rpg,Tactical RPG
+t,tanks,Tanks
+t,team-based,Team-Based
+t,text-based,Text-Based
+t,third person,Third Person
+t,third-person shooter,Third-Person Shooter
+t,thriller,Thriller
+t,time attack,Time Attack
+t,time manipulation,Time Manipulation
+t,time travel,Time Travel
+t,top-down,Top-Down
+t,top-down shooter,Top-Down Shooter
+t,touch-friendly,Touch-Friendly
+t,tower defense,Tower Defense
+t,trackir,TrackIR
+t,trading,Trading
+t,trading card game,Trading Card Game
+t,trains,Trains
+t,transhumanism,Transhumanism
+t,turn-based,Turn-Based
+t,turn-based combat,Turn-Based Combat
+t,turn-based strategy,Turn-Based Strategy
+t,turn-based tactics,Turn-Based Tactics
+t,tutorial,Tutorial
+t,twin stick shooter,Twin Stick Shooter
+t,typing,Typing
+t,underground,Underground
+t,underwater,Underwater
+t,utilities,Utilities
+t,vampire,Vampire
+t,video production,Video Production
+t,villain protagonist,Villain Protagonist
+t,violent,Violent
+t,visual novel,Visual Novel
+t,voice control,Voice Control
+t,voxel,Voxel
+t,vr,VR
+t,walking simulator,Walking Simulator
+t,war,War
+t,wargame,Wargame
+t,warhammer 40k,Warhammer 40K
+t,web publishing,Web Publishing
+t,werewolves,Werewolves
+t,western,Western
+t,word game,Word Game
+t,world war i,World War I
+t,world war ii,World War II
+t,wrestling,Wrestling
+t,zombies,Zombies

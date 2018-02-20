@@ -29,6 +29,8 @@ DEBUG = True
 # Application definition
 
 INSTALLED_APPS = [
+    'main_app',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -80,9 +82,11 @@ WSGI_APPLICATION = 'Underserved.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'underserved_users',
+        'NAME': 'jake-steam-test',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',
-        'PORT':'5432',
+        'PORT': '5432',
     }
 }
 
