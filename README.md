@@ -27,7 +27,7 @@ HTTP Method|Endpoint
 |DELETE|/profile|
 
 
-
+<br/>
 <b>WIREFRAMES</b><br/>
 index<br/>
 ![MP](https://github.com/jake94chavez/Underserved/blob/chanten_branch/index.png)<br/><br/>
