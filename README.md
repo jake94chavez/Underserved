@@ -17,7 +17,7 @@ Blue-Grey : #5488DC<br/><br/>
 
 <b>Routes</b><br/>
  HTTP Method    | Endpoint      |
-| -------------:|--------------:|
+|:-------------:|:-------------:|
 | GET           | /index        |
 | POST          | /index        |
 | GET           | /results      |
