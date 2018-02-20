@@ -16,6 +16,11 @@ body {
   margin-left: 10%;
 }
 
+.editdelete {
+  margin-left: 45%;
+}
+
+
 
 .btn {
   display: flex;
