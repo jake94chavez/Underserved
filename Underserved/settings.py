@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'Underserved.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'underserved_users',
+        'NAME': 'test',
         'HOST': 'localhost',
         'PORT':'5432',
     }
