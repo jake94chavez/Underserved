@@ -8,6 +8,24 @@ Independent developers do not have the resources to do their own market research
 The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/><br/>
 <b>TRELLO<br/>
 https://trello.com/b/kMQuZJhT/underserved<br/>
+  
+<b>Display</b><br/>
+The color palette:<br/>
+Dark Grey : #5A5656<br/>
+Light Grey: #B6AEAE<br/>
+Blue-Grey : #5488DC<br/><br/>
+
+<b>Routes</b><br/>
+
+HTTP Method|Endpoint
+---|---
+|GET|/index|
+|POST|/index|
+|GET|/results|
+|GET|/profile|
+|PUT|/profile|
+|DELETE|/profile|
+
 
 <b>WIREFRAMES</b><br/>
 index<br/>
