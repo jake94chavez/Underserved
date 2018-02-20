@@ -24,8 +24,8 @@ HTTP Method|Endpoint
 |GET|/results|
 |GET|/profile|
 |PUT|/profile|
-|DELETE|/profile|<br/>
-<br/><br/>
+|DELETE|/profile|
+
 
 
 <b>WIREFRAMES</b><br/>
