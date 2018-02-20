@@ -1,7 +1,10 @@
 from django.conf.urls import url
-from views import index
+from . import views
+from .views import about
 
+# from views import about
 urlpatterns = [
-    url(r'^$', index),
-    url(r'^$', 'about.html'),
+    url(r'^$', views.index),
+    url(r'^about/$', about),
+
 ]
