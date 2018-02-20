@@ -11,9 +11,8 @@ https://trello.com/b/kMQuZJhT/underserved<br/>
 
 <b>WIREFRAMES</b><br/>
 index<br/>
-![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/><br/>
+![MP](https://github.com/jake94chavez/Underserved/blob/chanten_branch/index.png)<br/><br/>
 search results page<br/>
-![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
+![MP](https://github.com/jake94chavez/Underserved/blob/chanten_branch/searchResults.png)<br/><br/>
 user profile page<br/>
-![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
-test
+![MP](https://github.com/jake94chavez/Underserved/blob/chanten_branch/userProfile.png)<br/><br/>
