@@ -9,3 +9,6 @@ def about(request):
 
 def results(request):
 	return render(request, 'results.html')
+
+def profile(request):
+	return render(request, 'profile.html')
