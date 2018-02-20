@@ -80,9 +80,9 @@ WSGI_APPLICATION = 'Underserved.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'steam-test5',
-        'USER': 'wombat',
-        'PASSWORD': 'M@nd31br0t',
+        'NAME': 'jake-steam-test',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432',
     }

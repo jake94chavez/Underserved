@@ -17,10 +17,10 @@ CREATE TABLE index (
 );
 
 COPY games (app_id, app_name, metascore)
-FROM '/Users/wombat/wdiSchoolDev/unit4/underserved/Underserved/Underserved/sql-crap/steam_games.csv' DELIMITER '<' CSV HEADER;
+FROM '/Users/jakechavez/development/Projects/Underserved/main_app/sql-crap/steam_games.csv' DELIMITER '<' CSV HEADER;
 
 COPY filters (type, name, label)
-FROM '/Users/wombat/wdiSchoolDev/unit4/underserved/Underserved/Underserved/sql-crap/steam_filters.csv' DELIMITER ',' CSV HEADER;
+FROM '/Users/jakechavez/development/Projects/Underserved/main_app/sql-crap/steam_filters.csv' DELIMITER ',' CSV HEADER;
 
 COPY index (type, name, app_id)
-FROM '/Users/wombat/wdiSchoolDev/unit4/underserved/Underserved/Underserved/sql-crap/steam_index.csv' DELIMITER ',' CSV HEADER;
+FROM '/Users/jakechavez/development/Projects/Underserved/main_app/sql-crap/steam_index.csv' DELIMITER ',' CSV HEADER;
