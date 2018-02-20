@@ -1,0 +1,67 @@
+.navbar, navbar-inverse, navbar-static-top{
+  background-color: #5b5656;
+
+}
+h1, .tag {
+  color: #0071fc;
+}
+.tagsDiv{
+  width: 80%;
+  margin-left: 10%;
+}
+
+
+.nav-pills{
+margin-left: 80%;
+color: white;
+}
+
+#subBtn{
+  margin-left: 42.5%;
+
+
+}
+
+a {
+  color: white;
+}
+
+.jumbotron, .container,  body {
+  background-color: #b7aeae;
+
+}
+
+
+
+.btn{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    height: 30px;
+    width: 100px;
+}
+
+#subBtn{
+  height: 40px;
+  width: 125px;
+
+}
+
+.tagselected{
+  color: white;
+  background-color: #B6AEAE;
+}
+
+.flex-container {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  cursor: pointer;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
