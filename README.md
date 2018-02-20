@@ -16,14 +16,6 @@ Light Grey: #B6AEAE<br/>
 Blue-Grey : #5488DC<br/><br/>
 
 <b>Routes</b><br/>
-| HTTP Method | Endpoint |
-| --- | --- |
-| GET | /index   |
-| POST| /index   |
-| GET | /results |
-| GET | /profile |
-| PUT | /profile |
-| DELETE | /profile |
 
 HTTP Method|Endpoint
 ---|---
@@ -33,7 +25,7 @@ HTTP Method|Endpoint
 |GET|/profile|
 |PUT|/profile|
 |DELETE|/profile|
-
+<br/><br/>
 
 
 <b>WIREFRAMES</b><br/>
