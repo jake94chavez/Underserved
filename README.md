@@ -24,7 +24,7 @@ HTTP Method|Endpoint
 |GET|/results|
 |GET|/profile|
 |PUT|/profile|
-|DELETE|/profile|
+|DELETE|/profile|<br/>
 <br/><br/>
 
 
