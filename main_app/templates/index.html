@@ -20,20 +20,12 @@
   </head>
 
   <body>
-
-    <nav class="navbar navbar-inverse navbar-static-top">
-      <a class="navbar-brand" href="/about">about</a>
-      <ul class="nav nav-pills">
-        <li class="nav-item">
-
-
-        <li class="nav-item">
-          <a class="nav-link" href="#">LogIn/signup dropdown</a>
-        </li>
+      <ul class="navvy">
+        <li class="nav"><a href="/profile">My Profile</a></li>
+        <li class="nav"><a href="/about">About</a></li>
+        <li class="nav"><a href="/home">Home</a></li>
+        <li class="nav"><a href="/logSign">LogIn/signup</a></li>
       </ul>
-    </nav>
-
-
     <div class="jumbotron">
       <div class="container">
         <h1 >Welcome To The Underserved</h1>
@@ -157,7 +149,9 @@
       </ul>
     </div>
 
-    <button type="button" id="subBtn" class=" btn-success" data-toggle="button" aria-pressed="false" autocomplete="off">SUBMIT</button>
+    <!-- submit button, will link to results page -->
+    <input type="button" id="subBtn" class="btn btn-info" value="SUBMIT" onclick="location.href = '/results';">
+
 
 
 
