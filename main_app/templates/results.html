@@ -5,15 +5,25 @@
 {% block content %}
 <div class="jumbotron">
   <div class="container">
-    <h1 >Here Are Your Results:</h1>
+    <h1 class="display-4" >Here Are Your Results:</h1>
   </div>
 </div>
-<h1>result 1</h1>
-<p>description</p>
-<h1>result 2</h1>
-<p>description</p>
-<h1>result 3</h1>
-<p>description</p>
+<div class="container">
+  <table class="table">
+    <thead>
+      <tr>
+        <th class="text-primary">Search</th>
+        <th class="text-primary">Result</th>
+  </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>rpg, female lead</td>
+        <td>game results</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 {% endblock %}
 
 
