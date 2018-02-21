@@ -49,7 +49,7 @@ HTTP Method|Endpoint
 <br/>
 <b>WIREFRAMES</b><br/>
 ![index](index.png)
-index<br/>
+<br/>
 ![MP](https://github.com/jake94chavez/Underserved/blob/chanten_branch/index.png)<br/><br/>
 search results page<br/>
 ![MP](https://github.com/jake94chavez/Underserved/blob/master/searchResults.png)<br/><br/>
