@@ -50,6 +50,6 @@ HTTP Method|Endpoint
 <b>WIREFRAMES</b><br/>
 ![Index Page](https://github.com/jake94chavez/Underserved/blob/chanten_branch/index.png)<br/><br/>
 search results page<br/>
-![Search Results](Underserved/searchResults.png)<br/><br/>
+![Search Results](https://github.com/jake94chavez/Underserved/blob/master/searchResults.png)<br/><br/>
 user profile page<br/>
 ![User Profile](https://github.com/jake94chavez/Underserved/blob/master/userProfile.png)<br/><br/>
