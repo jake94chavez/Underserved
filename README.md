@@ -6,6 +6,14 @@ Independent developers do not have the resources to do their own market research
 
 <b>Target User</b><br/>
 The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/><br/>
+
+"The United States video game industry employs an estimated 65,678 direct employees as of 2016. 99.7% of American-based
+companies across all subgroups employ less than 500 employees with 91.4% of all American-based game companies
+employing less than 30 employees. This means that almost 100% of American game companies are considered small businesses
+under the qualifications set by the Small Business Administration. Only a handful of AAA game publishers employ more than 500
+employees and are considered major corporations. "
+<br/><br/>
+
 <b>Trello</b><br/>
 https://trello.com/b/kMQuZJhT/underserved<br/>
   
