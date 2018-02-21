@@ -15,10 +15,15 @@ employees and are considered major corporations."<br/>
 http://www.theesa.com/wp-content/uploads/2017/02/ESA-VG-Industry-Report-2016-FINAL-Report.pdf
 <br/><br/>
 <b>Technologies</b><br/>
-Python
-Django
-HTML/CSS/JS
+Python<br/>
+Django<br/>
+HTML/CSS/JS<br/>
+PostGresSQL
 Bootstrap<br/>
+
+<b>Getting Started</br>
+Download this repo<br/>
+`$ pip3 install -r requirements.txt`
 
 <b>Trello</b><br/>
 https://trello.com/b/kMQuZJhT/underserved<br/>
