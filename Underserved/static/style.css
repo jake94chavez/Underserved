@@ -56,6 +56,11 @@ body {
 
 }
 
+.jumbotron{
+  width: 100%;
+  
+}
+
 #subBtn {
   height: 40px;
   width: 125px;
