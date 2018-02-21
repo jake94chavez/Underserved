@@ -29,7 +29,7 @@ HTTP Method|Endpoint
 <br/>
 <b>WIREFRAMES</b><br/>
 index<br/>
-![MP](Underserved/index.png)<br/><br/>
+![MP]("Underserved/index.png")<br/><br/>
 search results page<br/>
 ![MP](Underserved/searchResults.png)<br/><br/>
 user profile page<br/>
