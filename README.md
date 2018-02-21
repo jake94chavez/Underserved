@@ -22,7 +22,7 @@ Python<br/>
 Django<br/>
 HTML/CSS/JS<br/>
 PostGres<br/>
-Bootstrap<br/>
+Bootstrap<br/><br/>
 
 <b>Getting Started</b></br>
 Download this repo<br/>
