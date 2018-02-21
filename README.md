@@ -5,9 +5,9 @@ Independent developers do not have the resources to do their own market research
 We’ve got game/tag/metascore data, and we’re giving folks a few options to select tags with the goal of finding underserved niches in the game market.
 
 <b>Target User</b><br/>
-The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/>
+The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/><br/>
 "Independents are software developers which are not owned by (or dependent on) a single publisher. Some of these developers self-publish their games, relying on the Internet and word of mouth for publicity. Without the large marketing budgets of mainstream publishers, their products may receive less recognition than those of larger publishers."<br/>
-Or, said more efficiently, "independent video game development is the business of making games without the support of publisher"-Laura Parker<br/>
+Or, said more efficiently, "independent video game development is the business of making games without the support of publisher"-Laura Parker<br/><br/>
 
 "The United States video game industry employs an estimated 65,678 direct employees as of 2016. 99.7% of American-based
 companies across all subgroups employ less than 500 employees with 91.4% of all American-based game companies
