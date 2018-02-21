@@ -1,84 +1,42 @@
+{% extends 'base.html' %}
 {% load staticfiles %}
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
 
+{% block content %}
+<div class="jumbotron">
+  <div class="container">
+    <h1 >Your Profile</h1>
+  </div>
+</div>
 
-    <title>The Underserved</title>
-
-
-    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="http://v4-alpha.getbootstrap.com/examples/jumbotron/jumbotron.css" rel="stylesheet">
-
-    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
-    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
-  </head>
-
-  <body>
-      <ul class="navvy">
-        <li class="nav"><a href="/profile">My Profile</a></li>
-        <li class="nav"><a href="/about">About</a></li>
-        <li class="nav"><a href="/">Home</a></li>
-        <li class="nav"><a href="/logSign">LogIn/Sign Up</a></li>
-      </ul>
-    <div class="jumbotron">
-      <div class="container">
-        <h1 >Your Profile</h1>
-      </div>
-    </div>
-
-    <div class="editdelete">
-      <button type="button" class="btn btn-primary">Edit Profile</button>
-      <button type="button" class="btn btn-primary">Delete Profile</button>
-    </div>
+<div class="editdelete">
+  <button type="button" class="btn btn-primary">Edit Profile</button>
+  <button type="button" class="btn btn-primary">Delete Profile</button>
+</div>
 
 
 <div class="profile">
 <!-- HARD CODED DATA TO BE REPLACED WITH USER UNPUT -->
 
-  <h2>Sir Glorious Name Esq. III</h2>
+<h2>Sir Glorious Name Esq. III</h2>
 
 
-  <!-- saved searches go here -->
-  <h5>Saved Searches:</h5>
+<!-- saved searches go here -->
+<h5>Saved Searches:</h5>
 
 <div >
-  <p> <h4>Search 1</h4><br/>
-    tags: ____, ____, ____, ____, _____
-  </p>
-  <p> <h4>Search 2</h4><br/>
-    tags: ____, ____, ____, ____, _____
-  </p>
-  <p> <h4>Search 3</h4><br/>
-    tags: ____, ____, ____, ____, _____
-  </p>
-  <p> <h4>Search 4</h4><br/>
-    tags: ____, ____, ____, ____, _____
-  </p>
+<p> <h4>Search 1</h4><br/>
+tags: ____, ____, ____, ____, _____
+</p>
+<p> <h4>Search 2</h4><br/>
+tags: ____, ____, ____, ____, _____
+</p>
+<p> <h4>Search 3</h4><br/>
+tags: ____, ____, ____, ____, _____
+</p>
+<p> <h4>Search 4</h4><br/>
+tags: ____, ____, ____, ____, _____
+</p>
 </div>
 
-
-
-
-      <footer>
-  <hr>
-        <p>© GA-13 Blood Cobras 2018 </p>
-      </footer>
-
-    <!-- </div>  -->
-
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="http://v4-alpha.getbootstrap.com/assets/js/vendor/jquery.min.js"></script>
-    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
-    <script src="app.js"></script>
-
-
-  </body>
-</html>
+{% endblock %}

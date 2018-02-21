@@ -1,61 +1,29 @@
+{% extends 'base.html' %}
 {% load staticfiles %}
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-      <title>The Underserved</title>
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
 
-    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="http://v4-alpha.getbootstrap.com/examples/jumbotron/jumbotron.css" rel="stylesheet">
+{% block content %}
+<div class="jumbotron">
+  <div class="container">
+    <h1 >Welcome To The Underserved</h1>
+    <p>tagline goes right here</p>
 
-    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
-    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
-  </head>
+  </div>
+</div>
 
-  <body>
-      <ul class="navvy">
-        <li class="nav"><a href="/profile">My Profile</a></li>
-        <li class="nav"><a href="/about">About</a></li>
-        <li class="nav"><a href="/">Home</a></li>
-        <li class="nav"><a href="/logSign">LogIn/Sign Up</a></li>
-      </ul>
-    <div class="jumbotron">
-      <div class="container">
-        <h1 >Welcome To The Underserved</h1>
-        <p>tagline goes right here</p>
+<div class="tagsDiv">
+  <ul class="flex-container" >
 
-      </div>
-    </div>
+    <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">game tag</button></li>
+    <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">game tag</button></li>
+    <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">game tag</button></li>
+    <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">game tag</button></li>
+    <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">game tag</button></li>
+    <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">game tag</button></li>
 
-    <div class="tagsDiv">
-      <ul class="flex-container" >
+  </ul>
+</div>
 
-
-        <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">sample</button></li>
-        <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">sample</button></li>
-        <li ><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">sample</button></li>
-
-      </ul>
-    </div>
-
-    <!-- submit button, will link to results page -->
-    <input type="button" id="subBtn" class="btn btn-info" value="SUBMIT" onclick="location.href = '/results';">
-
-    <hr>
-      <footer>
-
-        <p>© GA-13 Blood Cobras 2018 </p>
-      </footer>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="http://v4-alpha.getbootstrap.com/assets/js/vendor/jquery.min.js"></script>
-    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
-    <script src="app.js"></script>
-
-
-  </body>
-</html>
+<!-- submit button, will link to results page -->
+<input type="button" id="subBtn" class="btn btn-info" value="SUBMIT" onclick="location.href = '/results';">
+{% endblock %}
