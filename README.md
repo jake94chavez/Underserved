@@ -21,9 +21,10 @@ HTML/CSS/JS<br/>
 PostGresSQL
 Bootstrap<br/>
 
-<b>Getting Started</br>
+<b>Getting Started<b></br>
 Download this repo<br/>
-`$ pip3 install -r requirements.txt`
+Install requirements: `$ pip3 install -r requirements.txt`
+Start server `$ python3 manage.py runserver`
 
 <b>Trello</b><br/>
 https://trello.com/b/kMQuZJhT/underserved<br/>
