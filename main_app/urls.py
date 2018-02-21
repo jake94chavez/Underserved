@@ -3,7 +3,7 @@ from . import views
 from .views import about
 from .views import results
 from .views import profile
-from .signuptestview import SignupView
+from .views import SignupView
 
 
 urlpatterns = [
