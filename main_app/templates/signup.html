@@ -3,14 +3,20 @@
 <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
 
 {% block content %}
+<div class="jumbotron">
+  <div class="container">
+    <h1 >Sign Up</h1>
+  </div>
+</div>
 <div class="row">
  <div class="col-md-8 col-sm-10 col-12">
    <form method="post" novalidate>
      {% csrf_token %}
      <input type="hidden" name="next" value="{{ next }}">
      {{ form.as_p }}
-     <button type="submit" class="btn btn-success">Sign up</button>
+     <button type="submit" class="btn btn-primary">Sign up</button>
    </form>
  </div>
 </div>
+
  {% endblock %}
