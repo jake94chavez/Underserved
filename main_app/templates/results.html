@@ -5,7 +5,35 @@
 {% block content %}
 <div class="jumbotron">
   <div class="container">
-    <h1 >Here Are Your Results:</h1>
+    <h1 class="display-4" >Here Are Your Results:</h1>
   </div>
 </div>
+<div class="container">
+  <table class="table">
+    <thead>
+      <tr>
+        <th class="text-primary">Search</th>
+        <th class="text-primary">Result</th>
+  </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>rpg, female lead</td>
+        <td>game results</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 {% endblock %}
+
+
+<!-- ......perhaps go in this direction when data is serving......
+{% for result in results %}
+    <div class="result">
+        <div class="game">
+          <h1><a href="">{{ result.game }}</a></h1>
+
+        <p><a href="">{{ result.description }}</a></p>
+        </div>
+    </div>
+{% endfor %} -->
