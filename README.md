@@ -48,10 +48,8 @@ HTTP Method|Endpoint
 
 <br/>
 <b>WIREFRAMES</b><br/>
-![index](index.png)
-<br/>
-![MP](https://github.com/jake94chavez/Underserved/blob/chanten_branch/index.png)<br/><br/>
+![Index Page](https://github.com/jake94chavez/Underserved/blob/chanten_branch/index.png)<br/><br/>
 search results page<br/>
-![MP](https://github.com/jake94chavez/Underserved/blob/master/searchResults.png)<br/><br/>
+![Search Results](Underserved/searchResults.png)<br/><br/>
 user profile page<br/>
-![MP](https://github.com/jake94chavez/Underserved/blob/master/userProfile.png)<br/><br/>
+![User Profile](https://github.com/jake94chavez/Underserved/blob/master/userProfile.png)<br/><br/>
