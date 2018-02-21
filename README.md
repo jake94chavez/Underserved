@@ -60,4 +60,5 @@ https://github.com/jake94chavez/Underserved/blob/master/userProfile.png<br/><br/
 
 <b>Sources</b><br/>
 https://en.wikipedia.org/wiki/Independent_video_game_development<br/>
-http://www.theesa.com/wp-content/uploads/2017/02/ESA-VG-Industry-Report-2016-FINAL-Report.pdf
+http://www.theesa.com/wp-content/uploads/2017/02/ESA-VG-Industry-Report-2016-FINAL-Report.pdf<br/>
+https://en.wikipedia.org/wiki/Video_game_developer<br/>
