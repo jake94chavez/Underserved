@@ -16,7 +16,6 @@ employing less than 30 employees. This means that almost 100% of American game c
 under the qualifications set by the Small Business Administration. Only a handful of AAA game publishers employ more than 500
 employees and are considered major corporations."<br/>
 
-<br/>
 <b>Technologies</b><br/>
 Python<br/>
 Django<br/>
