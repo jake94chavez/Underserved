@@ -5,9 +5,12 @@ from django.views.generic import CreateView
 from .forms import SignupForm
 from django.contrib.auth.models import User
 from django.contrib.auth import login
+from .models import Filter
 
 def index(request):
-	return render(request, 'index.html')
+	filters = Filter.objects.all()
+	print(filters[0])
+	return render(request, 'index.html', {'filters': filters} )
 
 def about(request):
 	return render(request, 'about.html')

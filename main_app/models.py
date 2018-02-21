@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 
 # Create your models here.
 class Filter(models.Model):
-	kind = models.CharField(max_length=1)
+	kind = models.CharField(max_length=10)
 	name = models.CharField(max_length=100)
 	label = models.CharField(max_length=100)
 	def __str__(self):
