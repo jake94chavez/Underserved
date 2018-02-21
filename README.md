@@ -33,7 +33,7 @@ https://trello.com/b/kMQuZJhT/underserved<br/>
 The color palette:<br/>
 Dark Grey : #5A5656<br/>
 Light Grey: #B6AEAE<br/>
-Blue-Grey : #5488DC<br/><br/>
+Blue-Grey : #5488DC<br/>
 
 <b>Routes</b><br/>
 
