@@ -30,7 +30,6 @@ DEBUG = True
 
 INSTALLED_APPS = [
     'main_app',
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -82,6 +81,7 @@ WSGI_APPLICATION = 'Underserved.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'test',
         'NAME': 'jake-steam-test',
         'USER': '',
         'PASSWORD': '',

@@ -1,0 +1,64 @@
+
+h1 {
+  color: #0071fc;
+}
+
+a {
+  color: white;
+}
+
+body {
+ background-color: #b7aeae;
+}
+
+.tagsDiv{
+  width: 80%;
+  margin-left: 10%;
+}
+
+.editdelete {
+  margin-left: 45%;
+}
+
+
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  text-align: center;
+  margin: 5px 5px 5px 5px;
+  height: 30px;
+  width: 100px;
+}
+
+
+.tagselected {
+  color: white;
+  background-color: #B6AEAE;
+}
+
+.flex-container {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  cursor: pointer;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.nav {
+  list-style: none;
+  display: inline;
+  margin: 5px;
+
+}
+
+#subBtn {
+  height: 40px;
+  width: 125px;
+  margin-left: 42.5%;
+
+}
