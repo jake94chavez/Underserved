@@ -18,13 +18,13 @@ http://www.theesa.com/wp-content/uploads/2017/02/ESA-VG-Industry-Report-2016-FIN
 Python<br/>
 Django<br/>
 HTML/CSS/JS<br/>
-PostGresSQL
+PostGres<br/>
 Bootstrap<br/>
 
-<b>Getting Started<b></br>
+<b>Getting Started</b></br>
 Download this repo<br/>
-Install requirements: `$ pip3 install -r requirements.txt`
-Start server `$ python3 manage.py runserver`
+Install requirements: `$ pip3 install -r requirements.txt`<br/>
+Start server `$ python3 manage.py runserver`<br/>
 
 <b>Trello</b><br/>
 https://trello.com/b/kMQuZJhT/underserved<br/>
