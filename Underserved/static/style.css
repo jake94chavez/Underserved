@@ -1,9 +1,14 @@
 
 h1 {
-  color: #0071fc;
+color: blue;
+-webkit-text-stroke-width: .5px;
+-webkit-text-stroke-color: white;
 }
 
 a {
+  color: white;
+}
+p {
   color: white;
 }
 
@@ -11,6 +16,18 @@ body {
  background-color: #b7aeae;
 }
 
+.signup{
+margin-left: 80%;
+list-style: none;
+display: inline;
+
+}
+
+
+
+.jumbotron {
+  background-image: url('http://www.spyderonlines.com/images/gray_black_texture_surface_point_236.jpg');
+}
 .tagsDiv{
   width: 80%;
   margin-left: 10%;
@@ -35,12 +52,6 @@ body {
   width: 100px;
 }
 
-
-.tagselected {
-  color: white;
-  background-color: #B6AEAE;
-}
-
 .flex-container {
   padding: 0;
   list-style: none;
@@ -49,6 +60,7 @@ body {
   flex-flow: row wrap;
   justify-content: space-between;
 }
+
 .nav {
   list-style: none;
   display: inline;
@@ -56,10 +68,7 @@ body {
 
 }
 
-.jumbotron{
-  width: 100%;
-  
-}
+
 
 #subBtn {
   height: 40px;
