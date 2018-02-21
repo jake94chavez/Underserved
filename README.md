@@ -51,6 +51,6 @@ HTTP Method|Endpoint
 index<br/>
 https://github.com/jake94chavez/Underserved/blob/master/index.png<br/><br/>
 search results page<br/>
-(https://github.com/jake94chavez/Underserved/blob/master/searchResults.png)<br/><br/>
+https://github.com/jake94chavez/Underserved/blob/master/searchResults.png<br/><br/>
 user profile page<br/>
-(https://github.com/jake94chavez/Underserved/blob/master/userProfile.png)<br/><br/>
+https://github.com/jake94chavez/Underserved/blob/master/userProfile.png<br/><br/>
