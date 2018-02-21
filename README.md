@@ -14,6 +14,11 @@ under the qualifications set by the Small Business Administration. Only a handfu
 employees and are considered major corporations."<br/>
 http://www.theesa.com/wp-content/uploads/2017/02/ESA-VG-Industry-Report-2016-FINAL-Report.pdf
 <br/><br/>
+<b>Technologies</b><br/>
+Python
+Django
+HTML/CSS/JS
+Bootstrap<br/>
 
 <b>Trello</b><br/>
 https://trello.com/b/kMQuZJhT/underserved<br/>
