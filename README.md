@@ -48,7 +48,7 @@ HTTP Method|Endpoint
 
 <br/>
 <b>WIREFRAMES</b><br/>
-![Index Page](https://github.com/jake94chavez/Underserved/blob/master/index.png)<br/><br/>
+(https://github.com/jake94chavez/Underserved/blob/master/index.png)<br/><br/>
 search results page<br/>
 ![Search Results](https://github.com/jake94chavez/Underserved/blob/master/searchResults.png)<br/><br/>
 user profile page<br/>
