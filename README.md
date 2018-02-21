@@ -29,8 +29,8 @@ HTTP Method|Endpoint
 <br/>
 <b>WIREFRAMES</b><br/>
 index<br/>
-![MP](https://github.com/christopherhanten/underserved/blob/master/image.png "Tag Select Page")<br/><br/>
+![MP](Underserved/index.png)<br/><br/>
 search results page<br/>
-![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png "Results Page")<br/><br/>
+![MP](Underserved/searchResults.png)<br/><br/>
 user profile page<br/>
-![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png "User Profile Page")<br/><br/>
+![MP](Underserved/userProfile.png)<br/><br/>
