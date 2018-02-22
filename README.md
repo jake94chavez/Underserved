@@ -49,13 +49,14 @@ HTTP Method|Endpoint
 |DELETE|/profile|
 
 <br/>
+
 <b>WIREFRAMES</b><br/>
 index<br/>
-https://github.com/jake94chavez/Underserved/blob/master/index.png<br/><br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/><br/>
 search results page<br/>
-https://github.com/jake94chavez/Underserved/blob/master/searchResults.png<br/><br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
 user profile page<br/>
-https://github.com/jake94chavez/Underserved/blob/master/userProfile.png<br/><br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
 
 <b>Sources</b><br/>
 https://en.wikipedia.org/wiki/Independent_video_game_development<br/>
