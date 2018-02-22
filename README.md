@@ -20,7 +20,7 @@ Python<br/>
 Django<br/>
 HTML/CSS/JS<br/>
 PostGres<br/>
-Bootstrap<br/><br/>
+Bootstrap<br/>
 
 <b>Getting Started</b></br>
 Download this repo  : https://github.com/jake94chavez/Underserved.git<br/>
