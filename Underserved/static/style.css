@@ -12,21 +12,28 @@ p {
   color: white;
 }
 
+
+
 body {
  background-color: #b7aeae;
 }
 
 .signup{
-margin-left: 80%;
+margin-left: 77.7%;
 list-style: none;
 display: inline;
 
 }
 
-
+.about{
+  text-align: center;
+  width: 900px;
+  margin-left: 15%;
+}
 
 .jumbotron {
   background-image: url('http://www.spyderonlines.com/images/gray_black_texture_surface_point_236.jpg');
+  width: 97%;
 }
 .tagsDiv{
   width: 80%;
@@ -75,4 +82,8 @@ display: inline;
   width: 125px;
   margin-left: 42.5%;
 
+}
+
+#signupForm {
+  margin-left: 25%;
 }
