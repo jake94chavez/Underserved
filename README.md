@@ -15,8 +15,6 @@ employees and are considered major corporations."<br/>
 "Independents are software developers which are not owned by (or dependent on) a single publisher. Some of these developers self-publish their games, relying on the Internet and word of mouth for publicity. Without the large marketing budgets of mainstream publishers, their products may receive less recognition than those of larger publishers."<br/><br/>
 Or, said more efficiently, "independent video game development is the business of making games without the support of publisher"-Laura Parker<br/>
 
-
-
 <b>Technologies</b><br/>
 Python<br/>
 Django<br/>
