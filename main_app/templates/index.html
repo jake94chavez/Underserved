@@ -15,13 +15,12 @@
   <ul class="flex-container" >
 
     {% for filter in filters %}
-    
-    <li ><button id={{ filter.name }} type="button" class="btn btn-outline-primary btn-sm clicky" data-toggle="button" aria-pressed="false" autocomplete="off" onclick=clickAppend(this)>{{ filter.label }}</button></li>
+    <li ><button type="button" class="btn btn-outline-primary btn-sm clicky" data-toggle="button" aria-pressed="false" autocomplete="off" onclick=clickAppend(this)>{{ filter.label }}</button></li>
     {% endfor %}
 
   </ul>
 </div>
 
 <!-- submit button, will link to results page -->
-<input type="button" id="subBtn" class="btn btn-primary" value="SUBMIT" onclick="location.href = '/results';">
+<input type="submit" id="subBtn" class="btn btn-primary" value="SUBMIT" onclick="location.href = '/results';"/>
 {% endblock %}

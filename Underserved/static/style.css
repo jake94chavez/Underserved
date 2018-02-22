@@ -23,8 +23,6 @@ display: inline;
 
 }
 
-
-
 .jumbotron {
   background-image: url('http://www.spyderonlines.com/images/gray_black_texture_surface_point_236.jpg');
 }
@@ -37,8 +35,6 @@ display: inline;
   margin-left: 45%;
 }
 
-
-
 .btn {
   display: flex;
   flex-direction: row;
@@ -49,7 +45,7 @@ display: inline;
   text-align: center;
   margin: 5px 5px 5px 5px;
   height: 30px;
-  width: 100px;
+  /*width: 100px;*/
 }
 
 .flex-container {
@@ -67,8 +63,6 @@ display: inline;
   margin: 5px;
 
 }
-
-
 
 #subBtn {
   height: 40px;

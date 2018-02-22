@@ -15,8 +15,7 @@ def about(request):
 	return render(request, 'about.html')
 
 def results(request):
-	filters = tagsList
-	return render(request, 'results.html', {'filters': filters})
+	return render(request, 'results.html')
 
 def profile(request):
 	return render(request, 'profile.html')

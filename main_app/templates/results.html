@@ -11,6 +11,9 @@
 <div class="container">
   <ul>
     <!-- Add the for loop here -->
+    {% for game in games %}
+    <li>{{ game.app_name }}</li>
+    {% endfor %}
   </ul>
   <table class="table">
     <thead>
@@ -21,14 +24,13 @@
     </thead>
     <tbody>
       <tr>
-        <td>rpg, female lead</td>
-        <td>game results</td>
+        <td><button>Co-op</button> <button>Female Protagonist</button> <button>RPG</button> <button>Turn-Based</button></td>
+        <td><a href="http://store.steampowered.com/app/61700/Might__Magic_Clash_of_Heroes/">Might & Magic Clash of Heroes</a>, <a href="http://store.steampowered.com/bundle/646/Rebellion_Anthology/">Rebellion Anthology</a>, <a href="http://store.steampowered.com/bundle/4910/Eidos_Anthology/">Eidos Anthology</a>, <a href="http://store.steampowered.com/bundle/2823/Tomb_Raider_Collection/">Tomb Raider Collection</a>, <a href="http://store.steampowered.com/bundle/225/Headup_Games_Complete/">Head Up Games Complete</a>, <a href="http://store.steampowered.com/bundle/5584/MM_Heroes_Bundle/">M&M Heroes Bundle</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 {% endblock %}
-
 
 <!-- ......perhaps go in this direction when data is serving......
 {% for result in results %}
