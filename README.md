@@ -57,6 +57,10 @@ search results page<br/>
 user profile page<br/>
 ![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
 
+<b> Our major blocker</b><br/>
+Our current block to overcome is persisting data from one page to another. We have a lead to solve this problem, but there was not enough time before feature freeze.<br/>
+https://stackoverflow.com/questions/32787838/how-to-pass-data-between-django-views<br/>
+
 <b>Sources</b><br/>
 https://en.wikipedia.org/wiki/Independent_video_game_development<br/>
 http://www.theesa.com/wp-content/uploads/2017/02/ESA-VG-Industry-Report-2016-FINAL-Report.pdf<br/>
