@@ -23,7 +23,7 @@ PostGres<br/>
 Bootstrap<br/><br/>
 
 <b>Getting Started</b></br>
-Download this repo  : https://github.com/jake94chavez/Underserved.git
+Download this repo  : https://github.com/jake94chavez/Underserved.git<br/>
 Install requirements: `$ pip3 install -r requirements.txt`<br/>
 Start server        : `$ python3 manage.py runserver`<br/>
 
