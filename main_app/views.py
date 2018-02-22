@@ -9,28 +9,28 @@ from .models import Filter
 
 def index(request):
 	filters = Filter.objects.all()
-	print(filters[0])
 	return render(request, 'index.html', {'filters': filters} )
 
 def about(request):
 	return render(request, 'about.html')
 
 def results(request):
-	return render(request, 'results.html')
+	filters = tagsList
+	return render(request, 'results.html', {'filters': filters})
 
 def profile(request):
 	return render(request, 'profile.html')
 
 
 class SignupView(CreateView):
-    model = User
-    form_class = SignupForm
-    template_name = 'signup.html'
+	model = User
+	form_class = SignupForm
+	template_name = 'signup.html'
 
-    def get_context_data(self, **kwargs):
-        return super().get_context_data(**kwargs)
+	def get_context_data(self, **kwargs):
+		return super().get_context_data(**kwargs)
 
-    def form_valid(self, form):
-        user = form.save()
-        login(self.request, user)
-        return redirect('/')
+	def form_valid(self, form):
+		user = form.save()
+		login(self.request, user)
+		return redirect('/')

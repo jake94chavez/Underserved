@@ -15,7 +15,8 @@
   <ul class="flex-container" >
 
     {% for filter in filters %}
-    <li ><button type="button" class="btn btn-outline-primary" data-toggle="button" aria-pressed="false" autocomplete="off">{{ filter.label }}</button></li>
+    
+    <li ><button id={{ filter.name }} type="button" class="btn btn-outline-primary btn-sm clicky" data-toggle="button" aria-pressed="false" autocomplete="off" onclick=clickAppend(this)>{{ filter.label }}</button></li>
     {% endfor %}
 
   </ul>
